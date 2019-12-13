@@ -1,0 +1,7 @@
+﻿  City.cpp
+  Graph.cpp
+  Permutations.cpp
+  Project_1.cpp
+  Generating Code...
+C:\Senior Year\AI\Project_1\Project_1\Permutations.cpp(51,49): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+  Project_1.vcxproj -> C:\Senior Year\AI\Project_1\Debug\Project_1.exe
